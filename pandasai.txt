@@ -1,0 +1,32 @@
+2025-04-01 20:43:45 [INFO] Question: Summarize crime trends based on day of week and time of day.
+2025-04-01 20:43:45 [INFO] Running PandasAI with openai LLM...
+2025-04-01 20:43:45 [INFO] Prompt ID: 91dc3d51-1b9b-4e1a-ab3d-76a03ddb1ae7
+2025-04-01 20:43:45 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-04-01 20:43:48 [INFO] Executing Step 0: ValidatePipelineInput
+2025-04-01 20:43:48 [INFO] Executing Step 1: CacheLookup
+2025-04-01 20:43:48 [INFO] Executing Step 2: PromptGeneration
+2025-04-01 20:43:48 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2025-04-01 20:47:17 [INFO] Question: Summarize crime trends based on day of week and time of day.
+2025-04-01 20:47:17 [INFO] Running PandasAI with openai LLM...
+2025-04-01 20:47:17 [INFO] Prompt ID: d6f6fda9-2b5c-42ae-a6ac-8a7fe44f869a
+2025-04-01 20:47:17 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-04-01 20:47:19 [INFO] Executing Step 0: ValidatePipelineInput
+2025-04-01 20:47:19 [INFO] Executing Step 1: CacheLookup
+2025-04-01 20:47:19 [INFO] Executing Step 2: PromptGeneration
+2025-04-01 20:47:19 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2025-04-01 20:52:40 [INFO] Question: Summarize crime trends based on day of week and time of day.
+2025-04-01 20:52:40 [INFO] Running PandasAI with openai LLM...
+2025-04-01 20:52:40 [INFO] Prompt ID: a7dee90a-2436-49a2-8302-71b5b7d3ee7f
+2025-04-01 20:52:41 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-04-01 20:52:42 [INFO] Executing Step 0: ValidatePipelineInput
+2025-04-01 20:52:42 [INFO] Executing Step 1: CacheLookup
+2025-04-01 20:52:42 [INFO] Executing Step 2: PromptGeneration
+2025-04-01 20:52:43 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
+2025-04-01 20:54:36 [INFO] Question: Summarize crime trends based on day of week and time of day.
+2025-04-01 20:54:36 [INFO] Running PandasAI with openai LLM...
+2025-04-01 20:54:36 [INFO] Prompt ID: 8452fca5-5e1a-403e-94b2-fd8f2417d565
+2025-04-01 20:54:36 [INFO] Executing Pipeline: GenerateChatPipeline
+2025-04-01 20:54:37 [INFO] Executing Step 0: ValidatePipelineInput
+2025-04-01 20:54:37 [INFO] Executing Step 1: CacheLookup
+2025-04-01 20:54:37 [INFO] Executing Step 2: PromptGeneration
+2025-04-01 20:54:37 [ERROR] Pipeline failed on step 2: 'Index' object has no attribute '_format_native_types'
